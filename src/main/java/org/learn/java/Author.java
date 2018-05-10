@@ -5,10 +5,10 @@ public class Author {
 	int id;
 	String name;
 	String Description;
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
+//	public int getId() {
+//		return id;
+//	}
+//	public void setId(int id) {
 		this.id = id;
 	}
 	public String getName() {
